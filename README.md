@@ -170,8 +170,6 @@ Machine-Learning-Internship/
 │   ├── requirements.txt
 │   └── README.md
 │
-├── Project_04/
-│
 └── README.md
 ```
 
