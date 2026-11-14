@@ -291,6 +291,12 @@ Open `telecom_churn_prediction.ipynb` using Jupyter Notebook or JupyterLab and e
 
 The dataset is loaded directly from the provided IBM GitHub dataset URL.
 
+<img width="698" height="501" alt="Screenshot (541)" src="https://github.com/user-attachments/assets/e316f14c-e7cb-4027-8480-ec7f676dde6e" />
+
+<img width="997" height="410" alt="Screenshot (544)" src="https://github.com/user-attachments/assets/10b25bc2-541c-4253-89db-fcffccd7eba7" />
+
+
+
 ## Conclusion
 
 This project demonstrates an end-to-end machine learning workflow for telecom customer churn prediction, including data cleaning, exploratory data analysis, preprocessing, class imbalance handling, ensemble model training, cross-validation, evaluation, and feature importance analysis.
