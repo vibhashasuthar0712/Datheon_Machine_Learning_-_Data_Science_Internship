@@ -93,6 +93,9 @@ The repository includes four projects covering different machine learning concep
 
 **Best Model:** OLS Regression (based on the lowest RMSE and highest R² Score).
 
+<img width="986" height="297" alt="Screenshot (545)" src="https://github.com/user-attachments/assets/dc36e10e-f29e-4f06-930b-8aa2b894861f" />
+
+
 **Key Learning:** Gained practical experience in regression modeling, interaction feature engineering, multicollinearity analysis, regularization techniques, hyperparameter optimization, and residual analysis.
 
 ---
