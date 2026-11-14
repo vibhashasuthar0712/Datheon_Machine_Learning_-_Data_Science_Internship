@@ -50,6 +50,7 @@ The repository includes four projects covering different machine learning concep
 | Logistic Regression | 93.33% |
 | Decision Tree | 93.33% |
 
+
 <img width="998" height="422" alt="Screenshot (546)" src="https://github.com/user-attachments/assets/ceace45b-56e3-4af1-bef4-9767d653098e" />
 
 <img width="997" height="419" alt="Screenshot (547)" src="https://github.com/user-attachments/assets/f1355e8f-a3d3-473a-bdf1-b38e375d8f77" />
