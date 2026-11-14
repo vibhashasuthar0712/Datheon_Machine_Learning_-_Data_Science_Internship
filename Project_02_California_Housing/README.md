@@ -179,6 +179,9 @@ Through this project, I gained practical experience in:
 - Model evaluation using RMSE, MAE, and R².
 - Residual analysis and model comparison.
 
+<img width="986" height="297" alt="Screenshot (545)" src="https://github.com/user-attachments/assets/63a0d42e-c11f-4541-9dd3-689230b85a7b" />
+
+
 ## Conclusion
 
 This project demonstrates a complete regression workflow, starting from data exploration and preprocessing to model training, hyperparameter tuning, and evaluation.
