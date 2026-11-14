@@ -199,6 +199,5 @@ Machine-Learning-Internship/
 ---
 
 **Internship:** Datheon – Machine Learning Internship  
-**Status:** All 4 Projects Completed
 
 *This repository documents my practical learning journey and hands-on experience with machine learning concepts and real-world datasets.*
