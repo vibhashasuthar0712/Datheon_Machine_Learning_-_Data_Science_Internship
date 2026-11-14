@@ -114,6 +114,10 @@ Through this project, I gained practical experience in:
 - Visualizing classification results.
 - Comparing machine learning algorithms.
 
+- <img width="998" height="422" alt="Screenshot (546)" src="https://github.com/user-attachments/assets/7de99cf8-edbd-4549-a943-dfc9951283bb" />
+<img width="997" height="419" alt="Screenshot (547)" src="https://github.com/user-attachments/assets/53b752c6-3ca2-431b-b05b-b678bba81426" />
+
+
 ## Conclusion
 
 Both Logistic Regression and Decision Tree achieved an accuracy of **93.33%** on the test dataset.
