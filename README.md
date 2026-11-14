@@ -2,9 +2,11 @@
 
 ## 📌 About This Repository
 
-This repository contains the tasks and projects completed as part of my **Machine Learning Internship**.
+This repository contains all the tasks and projects completed as part of my **Machine Learning Internship at Datheon**.
 
-Throughout this internship, I am working on practical machine learning problems to strengthen my understanding of data preprocessing, feature engineering, model development, hyperparameter tuning, evaluation, and implementation using Python and its libraries.
+Throughout this internship, I worked on practical machine learning problems to strengthen my understanding of data preprocessing, exploratory data analysis, feature engineering, model development, hyperparameter tuning, evaluation, and implementation using Python and its libraries.
+
+The repository includes four projects covering different machine learning concepts, including classification, regression, ensemble learning, and predictive modeling.
 
 ## 🛠️ Technologies & Tools
 
@@ -15,6 +17,7 @@ Throughout this internship, I am working on practical machine learning problems 
 - Matplotlib
 - Seaborn
 - Statsmodels
+- XGBoost
 - Jupyter Notebook
 
 ## 📚 Internship Projects
@@ -26,6 +29,7 @@ Throughout this internship, I am working on practical machine learning problems 
 **Dataset:** Iris Dataset
 
 **Key Tasks Performed:**
+
 - Loaded and explored the Iris dataset using Pandas.
 - Performed Exploratory Data Analysis (EDA) using Seaborn.
 - Split the dataset into training and testing sets (80:20).
@@ -35,6 +39,7 @@ Throughout this internship, I am working on practical machine learning problems 
 - Visualized confusion matrices and decision boundaries.
 
 **Algorithms Used:**
+
 - Logistic Regression
 - Decision Tree Classifier
 
@@ -56,6 +61,7 @@ Throughout this internship, I am working on practical machine learning problems 
 **Dataset:** California Housing Dataset (20,640 records, 10 columns)
 
 **Key Tasks Performed:**
+
 - Loaded and explored the California Housing dataset.
 - Performed Exploratory Data Analysis (EDA) and correlation heatmap visualization.
 - Handled missing values using median imputation.
@@ -72,6 +78,7 @@ Throughout this internship, I am working on practical machine learning problems 
 - Visualized actual vs predicted values and residual distributions.
 
 **Algorithms Used:**
+
 - Ordinary Least Squares (OLS) Regression
 - Ridge Regression (L2 Regularization)
 - Lasso Regression (L1 Regularization)
@@ -90,9 +97,56 @@ Throughout this internship, I am working on practical machine learning problems 
 
 ---
 
-### Project 3: Coming Soon
+### Project 3: Telecom Customer Churn Prediction
 
-### Project 4: Coming Soon
+**Objective:** Build ensemble machine learning models to predict customer churn using telecom subscription records and identify important factors influencing customer retention.
+
+**Dataset:** IBM Telco Customer Churn Dataset (7,043 records)
+
+**Key Tasks Performed:**
+
+- Loaded and explored the telecom customer churn dataset.
+- Performed data cleaning and Exploratory Data Analysis (EDA).
+- Removed unnecessary customer identifiers.
+- Converted `TotalCharges` into numerical format and handled missing values.
+- Applied One-Hot Encoding to categorical features.
+- Built preprocessing pipelines using Scikit-learn.
+- Addressed class imbalance using class-weighting techniques.
+- Trained and compared Random Forest and XGBoost classifiers.
+- Applied 5-fold Stratified Cross-Validation using ROC-AUC.
+- Evaluated models using Accuracy, Precision, Recall, F1-Score, Confusion Matrix, and ROC-AUC.
+- Visualized ROC curves and confusion matrices.
+- Extracted and analyzed the top 10 influential features.
+- Derived business insights to support customer retention strategies.
+
+**Algorithms Used:**
+
+- Random Forest Classifier
+- XGBoost Classifier
+
+**Model Performance:**
+
+| Model | Accuracy | Precision | Recall | F1-Score | ROC-AUC |
+|---|---:|---:|---:|---:|---:|
+| Random Forest | 78.57% | 62.86% | 47.06% | 53.82% | 82.24% |
+| XGBoost | 76.58% | 54.20% | 75.94% | 63.25% | 83.95% |
+
+**Cross-Validation Results:**
+
+| Model | Mean CV ROC-AUC |
+|---|---:|
+| Random Forest | 82.14% |
+| XGBoost | 83.88% |
+
+**Best Model:** XGBoost Classifier (based on the highest test ROC-AUC and F1-Score).
+
+**Key Learning:** Gained practical experience in ensemble learning, imbalanced classification, preprocessing pipelines, stratified cross-validation, ROC-AUC evaluation, feature importance analysis, and business-oriented machine learning insights.
+
+---
+
+### Project 4: Completed
+
+All four internship projects have been completed.
 
 ## 📂 Repository Structure
 
@@ -111,19 +165,42 @@ Machine-Learning-Internship/
 │   ├── housing.csv
 │   └── README.md
 │
-├── Project_03/
+├── Project_03_Telecom_Customer_Churn/
+│   ├── telecom_churn_prediction.ipynb
+│   ├── requirements.txt
+│   └── README.md
+│
 ├── Project_04/
 │
 └── README.md
 ```
 
+## 🎯 Key Skills Developed
+
+- Data Cleaning and Preprocessing
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
+- Feature Scaling and Encoding
+- Regression and Classification
+- Ensemble Machine Learning
+- Handling Imbalanced Datasets
+- Cross-Validation
+- Hyperparameter Tuning
+- Model Evaluation and Comparison
+- Feature Importance Analysis
+- Data Visualization
+- Business Insight Generation
+
 ## 👩‍💻 Author
 
 **Vibhasha Suthar**
 
-- GitHub: https://github.com/vibhashasuthar0712
-- LinkedIn: https://www.linkedin.com/in/vibhasha-suthar-280b51351/
+- GitHub: [github.com/vibhashasuthar0712](https://github.com/vibhashasuthar0712)
+- LinkedIn: [linkedin.com/in/vibhasha-suthar-280b51351](https://www.linkedin.com/in/vibhasha-suthar-280b51351/)
 
 ---
 
-*This repository will be continuously updated as I progress through the remaining internship projects.*
+**Internship:** Datheon – Machine Learning Internship  
+**Status:** All 4 Projects Completed
+
+*This repository documents my practical learning journey and hands-on experience with machine learning concepts and real-world datasets.*
