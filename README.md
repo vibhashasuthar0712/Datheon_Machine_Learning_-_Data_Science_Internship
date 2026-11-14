@@ -140,13 +140,21 @@ The repository includes four projects covering different machine learning concep
 
 **Best Model:** XGBoost Classifier (based on the highest test ROC-AUC and F1-Score).
 
+<img width="698" height="501" alt="Screenshot (541)" src="https://github.com/user-attachments/assets/5cb534cf-4066-47dd-a8fc-433816ad653d" />
+
+<img width="997" height="410" alt="Screenshot (544)" src="https://github.com/user-attachments/assets/1774bb50-50e2-4495-a4f9-0d2ab5ae0ec1" />
+
+<img width="909" height="544" alt="Screenshot (543)" src="https://github.com/user-attachments/assets/09d7c4d2-7268-41a4-8497-cd40093ee5f4" />
+
+<img width="901" height="533" alt="Screenshot (542)" src="https://github.com/user-attachments/assets/5568f231-a368-4155-b925-09f58f5764c8" />
+
 **Key Learning:** Gained practical experience in ensemble learning, imbalanced classification, preprocessing pipelines, stratified cross-validation, ROC-AUC evaluation, feature importance analysis, and business-oriented machine learning insights.
 
 ---
 
-### Project 4: Completed
+x
 
-All four internship projects have been completed.
+All internship projects have been completed.
 
 ## 📂 Repository Structure
 
