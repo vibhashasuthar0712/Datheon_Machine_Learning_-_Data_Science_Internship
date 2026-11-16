@@ -54,6 +54,9 @@ The project uses the California Housing dataset.
 - Statsmodels
 - Jupyter Notebook
 
+## App Demo:
+Demo Link: 
+
 ## Project Workflow
 
 ### 1. Data Loading and Exploration
